@@ -1,0 +1,5 @@
+langchain==0.0.149
+openai
+python-dotenv
+twilio
+Flask==2.2.2
